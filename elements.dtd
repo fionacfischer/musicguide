@@ -1,0 +1,3 @@
+<!ELEMENT albums album>
+<!ELEMENT album title releasedate price song>
+<!ELEMENT song songtitle lenght lyrics>
