@@ -1,0 +1,37 @@
+<albums>
+<album>
+<title>Boo Boo</title>
+<releasedate>2017</releasedate>
+<price>27.99</price>
+<song>
+<songtitle>Mirage</songtitle>
+<length>5:09</length>
+<lyrics></lyrics>
+<song>
+<song>
+<songtitle>No Show</songtitle>
+<length>3:15</length>
+<lyrics></lyrics>
+<song>
+<song>
+<songtitle>Mona Lisa</songtitle>
+<length>4:15</length>
+<lyrics></lyrics>
+<song>
+</album>
+<album>
+<title>Live from Trona</title>
+<releasedate>2016</releasedate>
+<price>28.99</price>
+<song>
+<songtitle>Divina</songtitle>
+<length>1:52</length>
+<lyrics><lyrics>
+</song>
+<song>
+<songtitle>What You Want</songtitle>
+<length>3:34</length>
+<lyrics><lyrics>
+</song>
+</album>
+</albums>
