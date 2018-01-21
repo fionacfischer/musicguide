@@ -1,5 +1,5 @@
 <albums>
-<album>
+<album xml:id="1">
 <title>Boo Boo</title>
 <releasedate>2017</releasedate>
 <price>27.99</price>
@@ -19,7 +19,7 @@
 <lyrics></lyrics>
 <song>
 </album>
-<album>
+<album xml:id="2">
 <title>Live from Trona</title>
 <releasedate>2016</releasedate>
 <price>28.99</price>
@@ -33,5 +33,30 @@
 <length>3:34</length>
 <lyrics><lyrics>
 </song>
+</album>
+<album xml:id="3">
+  <title>What for?</title>
+  <releasedate>2015</releasedate>
+  <price>19.99</price>
+</album>
+<album xml:id="4">
+  <title>Anything in Return</title>
+  <releasedate>2013</releasedate>
+  <price>24.57</price>
+</album>
+<album xml:id="5">
+  <title>June 2009</title>
+  <releasedate>2012</releasedate>
+  <price>16.27</price>
+</album>
+<album xml:id="6">
+  <title>Underneath the Pine</title>
+  <releasedate>2011</releasedate>
+  <price>20.49</price>
+</album>
+<album xml:id="7">
+  <title>Causers of this</title>
+  <releasedate>2011</releasedate>
+  <price>18.74</price>
 </album>
 </albums>
